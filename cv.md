@@ -1,6 +1,6 @@
 # Danila Kriukov
 # Contact info
-* Github: https://github.com/danilakriukov
+* Github: [https://github.com/danilakriukov]
 # About me
 Music teacher, use the programming skills in my job
 # Skills
