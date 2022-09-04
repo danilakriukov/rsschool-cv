@@ -11,7 +11,7 @@ Music teacher, use the programming skills in my job
 * AJAX
 # Code example
 My musical tasks manager site
-```
+```html
 <script>
 var listoftasks = {{listoftasks|tojson}};
 var listoftasksarray = JSON.parse(listoftasks);
