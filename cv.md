@@ -11,7 +11,7 @@ Music teacher, use the programming skills in my job
 * AJAX
 # Code example
 My musical tasks manager site
-'''
+```
 <script>
 var listoftasks = {{listoftasks|tojson}};
 var listoftasksarray = JSON.parse(listoftasks);
@@ -59,7 +59,7 @@ function writeTasks(i){
 	}
 }	
 </script>
-'''
+```
 # Languages
 English - B2
 German - C1
