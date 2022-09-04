@@ -61,6 +61,6 @@ function writeTasks(i){
 </script>
 ```
 # Languages
-English - B2
-German - C1
-Russian - Native
+* English - B2
+* German - C1
+* Russian - Native
